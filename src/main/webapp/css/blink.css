@@ -23,4 +23,7 @@
 
 #side-panel { display: none; }
 
-#main-panel { width: 100%; margin-left: 0px; }
+#main-panel { 
+	/* width: 100%; */
+	margin-left: 0px;
+}
